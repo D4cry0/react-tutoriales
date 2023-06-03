@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem /> Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Maison GIF by Dreamcatcher"
+      src="https://media0.giphy.com/media/tVEhC7m5M6A99SZw9g/giphy.gif?cid=40ebb390eutzo6m0s9lyy10v79teg19m0pyldr1c9ygh8o6x&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Maison GIF by Dreamcatcher
+    </p>
+  </div>
+</div>
+`;
